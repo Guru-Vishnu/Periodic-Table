@@ -47,6 +47,9 @@ Periodic Table of The Elements is a project in C++ which makes use of Object Ori
 
 ![image](https://user-images.githubusercontent.com/72333932/230717903-091581b9-a994-4a3e-8754-004218155be9.png)
 
+![image](https://user-images.githubusercontent.com/72333932/230718181-c4ef490b-4c46-4a01-a1c9-73a0e832179b.png)
+
+
 
 
 
