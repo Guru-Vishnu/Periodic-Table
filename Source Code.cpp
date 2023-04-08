@@ -1,3 +1,6 @@
+// Source Code for Periodic Table Project
+// Developed by Guru Vishnu M (2018)
+
 #include<fstream.h>
 #include<conio.h>
 #include<stdio.h>
