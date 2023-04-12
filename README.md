@@ -13,41 +13,41 @@ Periodic Table of The Elements is a project in C++ which makes use of Object Ori
 
 ### Menu
 
-![image](https://user-images.githubusercontent.com/72333932/230717743-108d8f88-b781-48d8-a3bf-7a281479d5e6.png)
+![image 1](https://user-images.githubusercontent.com/72333932/231397916-4cbb8a52-a51d-4e01-8a7d-317e4e9587b9.png)
 
 ### User Manual
 
-![image](https://user-images.githubusercontent.com/72333932/230717779-a0cea39e-faf4-450b-8897-0c0d63ec740d.png)
+![image 2](https://user-images.githubusercontent.com/72333932/231397946-420b176b-d93f-4d9c-adc3-d8d18255a478.png)
 
 ### Adding a New Element
 
-![image](https://user-images.githubusercontent.com/72333932/230717795-ccea2324-4405-4820-9f47-01fbf53014a3.png)
+![image 3](https://user-images.githubusercontent.com/72333932/231397994-b1b99dc0-89f7-40e1-8df4-3001538670af.png)
 
 ### Editing the Details of an Existing Element
 
-![image](https://user-images.githubusercontent.com/72333932/230717814-698024f9-f789-4a32-b032-82d06ef912eb.png)
+![image 4](https://user-images.githubusercontent.com/72333932/231398054-93a23098-1d8a-4309-ad12-258f90c2d682.png)
 
 ### Viewing the Details of a Single Element
 
-![image](https://user-images.githubusercontent.com/72333932/230717842-7fef3bed-33cd-439e-958f-e01f8dc190b1.png)
+![image 5](https://user-images.githubusercontent.com/72333932/231398117-1048b0f9-10f6-4317-88ee-3c914693fc90.png)
 
-![image](https://user-images.githubusercontent.com/72333932/230717849-efa9ac68-719e-46c5-94eb-05d4e58851c7.png)
+![image 6](https://user-images.githubusercontent.com/72333932/231398159-bfcabd73-1679-4ca1-9c15-40feb239a984.png)
 
 ### Viewing the Details of Multiple Elements
 
-![image](https://user-images.githubusercontent.com/72333932/230717867-ca06f550-0564-458a-8822-0a1839a0044e.png)
+![image 7](https://user-images.githubusercontent.com/72333932/231398207-88319e4a-1729-4a9e-b058-6caa7f1dc0d9.png)
 
-![image](https://user-images.githubusercontent.com/72333932/230717874-4ff194c6-2d01-405d-b7d5-ac2753a55312.png)
+![image 8](https://user-images.githubusercontent.com/72333932/231398240-d7839e45-0ae4-42b8-907f-fdbc9c8281ff.png)
 
 ### Periodic Table
 
-![image](https://user-images.githubusercontent.com/72333932/230717883-cd75dc75-a0b2-44dd-bd05-715c8875be33.png)
+![image 9](https://user-images.githubusercontent.com/72333932/231398290-f4f82780-160a-4018-ae88-162cdabbc034.png)
 
 ### Deleting an Element
 
-![image](https://user-images.githubusercontent.com/72333932/230717903-091581b9-a994-4a3e-8754-004218155be9.png)
+![image 10](https://user-images.githubusercontent.com/72333932/231398340-a79fbe16-a5ca-482a-8a6d-4e9324dcc0d9.png)
 
-![image](https://user-images.githubusercontent.com/72333932/231395815-ec1c5602-c8bc-4c10-9e52-b01d01ce5eb9.png)
+![image 11](https://user-images.githubusercontent.com/72333932/231395815-ec1c5602-c8bc-4c10-9e52-b01d01ce5eb9.png)
 
 
 
